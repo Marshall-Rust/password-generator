@@ -15,3 +15,4 @@ I did a lot of googling for this project. Was a huge sturggle.
 /Users/marshall/bootcamp/password-generator/screenshots/Screen Shot 2022-04-09 at 12.23.00 AM.png
 /Users/marshall/bootcamp/password-generator/screenshots/Screen Shot 2022-04-09 at 12.23.15 AM.png
 /Users/marshall/bootcamp/password-generator/screenshots/Screen Shot 2022-04-09 at 12.23.27 AM.png
+![Screen Shot 2022-04-09 at 12 21 49 AM](https://user-images.githubusercontent.com/100245959/162561716-9767f5fa-d54e-4417-aca9-a0b87bcb95c0.png)
